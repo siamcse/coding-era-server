@@ -15,6 +15,12 @@ app.get('/courses',(req,res)=>{
     res.send(courses);
 })
 
+app.get('/course/:id',(req,res)=>{
+    const id = parseInt(req.params.id);
+    const selectCourse = courses.find(course=>course.id===id);
+    res.send(selectCourse);
+})
+
 app.listen(port, ()=>{
     console.log('hello world printed from port ',port)
 })
