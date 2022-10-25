@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "image":"",
+        "description":"JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+        "learnItem":["Become an advanced, confident, and modern JavaScript developer from scratch","Become job-ready by understanding how JavaScript really works behind the scenes","Build 6 beautiful real-world projects for your portfolio (not boring toy apps)","Modern tools for 2022 and beyond: NPM, Parcel, Babel and ES6 modules","How to architect your code using flowcharts and common patterns","Practice your skills with 50+ challenges and assignments (solutions included)"]
+    }
+    {
+        "id":2,
+        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "image":"",
+        "description":"JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+        "learnItem":["Become an advanced, confident, and modern JavaScript developer from scratch","Become job-ready by understanding how JavaScript really works behind the scenes","Build 6 beautiful real-world projects for your portfolio (not boring toy apps)","Modern tools for 2022 and beyond: NPM, Parcel, Babel and ES6 modules","How to architect your code using flowcharts and common patterns","Practice your skills with 50+ challenges and assignments (solutions included)"]
+    }
+    {
+        "id":3,
+        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "image":"",
+        "description":"JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+        "learnItem":["Become an advanced, confident, and modern JavaScript developer from scratch","Become job-ready by understanding how JavaScript really works behind the scenes","Build 6 beautiful real-world projects for your portfolio (not boring toy apps)","Modern tools for 2022 and beyond: NPM, Parcel, Babel and ES6 modules","How to architect your code using flowcharts and common patterns","Practice your skills with 50+ challenges and assignments (solutions included)"]
+    }
+    {
+        "id":4,
+        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "image":"",
+        "description":"JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+        "learnItem":["Become an advanced, confident, and modern JavaScript developer from scratch","Become job-ready by understanding how JavaScript really works behind the scenes","Build 6 beautiful real-world projects for your portfolio (not boring toy apps)","Modern tools for 2022 and beyond: NPM, Parcel, Babel and ES6 modules","How to architect your code using flowcharts and common patterns","Practice your skills with 50+ challenges and assignments (solutions included)"]
+    }
+    {
+        "id":5,
+        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "image":"",
+        "description":"JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+        "learnItem":["Become an advanced, confident, and modern JavaScript developer from scratch","Become job-ready by understanding how JavaScript really works behind the scenes","Build 6 beautiful real-world projects for your portfolio (not boring toy apps)","Modern tools for 2022 and beyond: NPM, Parcel, Babel and ES6 modules","How to architect your code using flowcharts and common patterns","Practice your skills with 50+ challenges and assignments (solutions included)"]
+    }
+    {
+        "id":6,
+        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "image":"",
+        "description":"JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+        "learnItem":["Become an advanced, confident, and modern JavaScript developer from scratch","Become job-ready by understanding how JavaScript really works behind the scenes","Build 6 beautiful real-world projects for your portfolio (not boring toy apps)","Modern tools for 2022 and beyond: NPM, Parcel, Babel and ES6 modules","How to architect your code using flowcharts and common patterns","Practice your skills with 50+ challenges and assignments (solutions included)"]
+    }
+]
