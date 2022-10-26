@@ -1,6 +1,8 @@
 [
     {
         "id":1,
+        "price": 5000,
+        "rating": 4.3,
         "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
         "image":"https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=1060&t=st=1666702985~exp=1666703585~hmac=688e2b912357f2a382ae7705b32d611038df76ce42fffcef11d3e9a9d898bd81",
         "description":"JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
@@ -8,6 +10,8 @@
     },
     {
         "id":2,
+        "price": 6000,
+        "rating": 4.5,
         "title":"React - The Complete Guide (incl Hooks, React Router, Redux)",
         "image":"https://codersera.com/blog/wp-content/uploads/2019/12/Learn-Reactjs.jpeg",
         "description":"This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer.",
@@ -15,6 +19,8 @@
     },
     {
         "id":3,
+        "price": 5500,
+        "rating": 4.0,
         "title":"NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
         "image":"https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png",
         "description":"Node.js is probably THE most popular and modern server-side programming language you can dive into these days! Node.js developers are in high demand and the language is used for everything from traditional web apps with server-side rendered views over REST APIs all the way up to GraphQL APIs and real-time web services. Not to mention its applications in build workflows for projects of all sizes.",
@@ -22,6 +28,8 @@
     },
     {
         "id":4,
+        "price": 4000,
+        "rating": 4.4,
         "title":"MongoDB - The Complete Developer's Guide 2022",
         "image":"https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
         "description":"MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand. No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks.",
@@ -29,6 +37,8 @@
     },
     {
         "id":5,
+        "price": 15000,
+        "rating": 4.7,
         "title":"MERN Stack Front To Back: Full Stack React, Redux & Node.js",
         "image":"https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg",
         "description":"Welcome to \"MERN Stack Front To Back\". In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application.",
@@ -36,6 +46,8 @@
     },
     {
         "id":6,
+        "price": 12000,
+        "rating": 4.5,
         "title":"The Web Developer Bootcamp 2022",
         "image":"https://www.filepicker.io/api/file/FSIjaoI2QtKWZL65cogd",
         "description":"Hi! Welcome to the brand new version of The Web Developer Bootcamp, Udemy's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
